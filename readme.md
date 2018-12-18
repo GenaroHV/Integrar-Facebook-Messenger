@@ -48,6 +48,6 @@
    }(document, 'script', 'facebook-jssdk'));
 </script>
 ```
----
+Recuerda que debemos cambiar el idioma por defecto que es __`en_US`__ por __`es_LA`__.
 Por último, agregamos el código antes de cerrar la etiqueta `</body>` en nuestra web.
-Y recuerda que debemos cambiar el idioma por defecto que es `en_US` por `es_LA`.
+<br>Elaborado por [Genaro Hernández](https://genarohernandez.com/)
