@@ -49,5 +49,5 @@
 </script>
 ```
 Recuerda que debemos cambiar el idioma por defecto que es __`en_US`__ por __`es_LA`__.
-Por último, agregamos el código antes de cerrar la etiqueta `</body>` en nuestra web.
+<br>Por último, agregamos el código antes de cerrar la etiqueta __`</body>`__ en nuestra web.
 <br>Elaborado por [Genaro Hernández](https://genarohernandez.com/)
